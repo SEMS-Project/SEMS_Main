@@ -87,6 +87,10 @@
 <p align="center">
   <img src="./assets/시스템구성도.drawio.png" alt="ERD 다이어그램" style="width:100%; max-width:1000px; display:block; margin: 0 auto;">
 </p>
+<p align="center">
+  <img src="./assets/시스템구성도(포스터).png" alt="ERD 다이어그램" style="width:100%; max-width:1000px; display:block; margin: 0 auto;">
+</p>
+
 
 <br>
 
