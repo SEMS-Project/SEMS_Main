@@ -119,6 +119,8 @@
 ## 🛠️ 구현 환경
 
 <img src="./assets/입출력장치.png">
+<img src="./assets/환기청정기.png">
+
 <br>
 
 ## 👥 팀원 소개
