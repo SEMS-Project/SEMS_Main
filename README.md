@@ -98,7 +98,7 @@
 <p align="left">
   <img width="50%" height="50%" alt="erd1" src="https://github.com/user-attachments/assets/9d3865d9-e9cd-4ee3-950b-721f05b5044e" />
 <img width="50%" height="50%" alt="erd2" src="https://github.com/user-attachments/assets/e0ec4eb3-943f-45b2-adeb-526c85eda934" />
-
+<img src="./assets/ERD.png" alt="ERD 다이어그램" style="width:100%; max-width:1000px; display:block; margin: 0 auto;">
 </p>
 
 <br>
