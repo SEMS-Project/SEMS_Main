@@ -105,7 +105,7 @@
 
 ## 🛠️ 개발 환경
 
-- **Front-end**: ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+- **Front-end**: ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat&logo=typescript&logoColor=61DAFB)
 - **Back-end**: ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
 - **Database**: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 - **MQTT 통신**: ![MQTT](https://img.shields.io/badge/MQTT-paho--mqtt-blue?style=flat&logo=python&logoColor=white)  
@@ -175,7 +175,7 @@
 
 ---
 
-- 🎥 **시연 영상**  
+- 🎥 **1학기 시연 영상**  
   ⤷ [스마트 환경관리 시스템_시연 영상](https://youtu.be/1bW3b991c54)
 
 - 🎥 **최종 시연 영상**
