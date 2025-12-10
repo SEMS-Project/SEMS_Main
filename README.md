@@ -167,3 +167,8 @@
 - 🎥 **시연 영상**  
   ⤷ [스마트 환경관리 시스템_시연 영상](https://youtu.be/1bW3b991c54)
 
+- 🎥 **최종 시연 영상**
+
+
+https://github.com/user-attachments/assets/e2bbefdc-457a-4508-a7ec-5bd92b1de490
+
