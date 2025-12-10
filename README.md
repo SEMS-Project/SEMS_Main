@@ -116,6 +116,9 @@
 - **협업 도구**: ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)  
 - **디자인**: ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
+## 🛠️ 구현 환경
+
+<img src="./assets/입출력장치.png">
 <br>
 
 ## 👥 팀원 소개
