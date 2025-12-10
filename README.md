@@ -112,7 +112,7 @@
 - **MQTT 브로커**: ![HiveMQ](https://img.shields.io/badge/HiveMQ-FFDD00?style=flat&logo=protocols.io&logoColor=black)  
 - **IoT 디바이스**: ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)   
 - **데이터 포맷**: ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)  
-- **배포(예정)**: ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white)  
+- **배포**: ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white)  
 - **협업 도구**: ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)  
 - **디자인**: ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
