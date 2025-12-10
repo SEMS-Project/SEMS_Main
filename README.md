@@ -128,7 +128,7 @@
 | 김현호 (팀장) | 임종원 | 나은주 | 한민서 |
 |:------------:|:------:|:------:|:------:|
 | <img src="./assets/kim.jpg" width="200"> | <img src="./assets/lim.jpg" width="200"> | <img src="./assets/na.jpg" width="200"> | <img src="./assets/Han.jpg" width="100"> |
-| 하드웨어 / MQTT 통신 / 시스템 설계 | 채팅 기능 / MQTT 파싱 / Git 관리 | 웹 UI / 백엔드 / React 설계 | SPA 구조 / UI 설계 / React |
+| 하드웨어 / MQTT 통신 / 시스템 설계 | 채팅 기능 / MQTT 파싱 / Git 관리 | 웹 UI / 백엔드 / React 설계 | UI 설계 / 회원관리 / 실시간문의 |
 
 <br>
 
