@@ -217,7 +217,7 @@
   ⤷ [404_NotFound_최종발표](./assets/404_NotFound_최종발표.pptx)
 
 - 🏷️ **스마트 환경관리 시스템(SEMS) 논문 (한글)** <br>
-  ⤷ [SEMS_최종논문](./assets/졸업논문_YA_404NotFound_최종_v1.hwp)
+  ⤷ [SEMS_최종논문](./assets/졸업논문_YA_404NotFound_최종.pdf)
 
 - 🏷️ **2학기 졸업작품 제출자료** 
 
