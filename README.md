@@ -228,8 +228,6 @@
 
 - 🎥 **최종 시연 영상** <br>
 ⤷ [SEMS_최종영상 재생](https://github.com/user-attachments/assets/014f177b-9249-472b-baef-2fb6250e707a)
-⤷ https://github.com/user-attachments/assets/014f177b-9249-472b-baef-2fb6250e707a
-
 
 
 
