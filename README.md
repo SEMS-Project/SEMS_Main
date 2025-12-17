@@ -227,6 +227,9 @@
   ⤷ [스마트 환경관리 시스템_시연 영상](https://youtu.be/1bW3b991c54)
 
 - 🎥 **최종 시연 영상** <br>
-⤷ [SEMS_최종영상 재생](https://github.com/haha096/SEMS_Main/raw/main/assets/스마트환경시스템_최종영상.mp4)
+⤷ [SEMS_최종영상 재생](https://github.com/user-attachments/assets/014f177b-9249-472b-baef-2fb6250e707a)
+⤷ https://github.com/user-attachments/assets/014f177b-9249-472b-baef-2fb6250e707a
+
+
 
 
